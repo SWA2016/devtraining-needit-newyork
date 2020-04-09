@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Custom Table" max_length="40" name="x_58872_needit_my_custom_table" type="collection">
+        <element default="40" label="MyNewColmn" max_length="40" name="mynewcolmn" type="string"/>
+        <element default="what?" display="true" label="SomeString" max_length="25" name="somestring" type="string"/>
+    </element>
+</database>
